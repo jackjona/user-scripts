@@ -1,5 +1,5 @@
 # User-Scripts
-A collection of user scripts made by me.
+A collection of user scripts made by me that I find useful.
 
 Greasy Fork Links:
 - [UofT - Course Hover Popup](https://greasyfork.org/en/scripts/568651-uoft-course-hover-popup) - A user script to view course details when hovering over course codes on the University of Toronto academic calendar website
